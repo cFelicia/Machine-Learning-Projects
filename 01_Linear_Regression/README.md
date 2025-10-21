@@ -1,4 +1,4 @@
-# House Price Prediction (Linear Regression)
+#### House Price Prediction (Linear Regression)
 
-## Objective
+*Objective*
 Build a Linear Regression model to predict house prices
